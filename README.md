@@ -1,6 +1,6 @@
 # abc_princess
 
-princess is for cordblood bank laboratory app
+princess is for flutter app
 
 ## Getting Started
 
